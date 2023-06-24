@@ -1,4 +1,4 @@
-[English](readme.md) | [简体中文](zh-CN.md)
+[English](README.md) | [简体中文](README_zh-CN.md)
 
 # Welcome to the Gu Yu Story Repository!
 
